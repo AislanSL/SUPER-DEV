@@ -43,12 +43,12 @@ Este projeto consiste em uma API RESTful construída com Nest.js para gerenciar 
 
 - npm install
 
-### Execução 
+# Execução 
 
-# API
+## API
 
 - Na pasta API execute "npm run start"
 
-# Painel
+## Painel
 
 - Na pasta FRONTEND execute "npm start"
